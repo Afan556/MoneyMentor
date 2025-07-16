@@ -1,0 +1,49 @@
+id,context_chunk,category,age_group,tone,slang_translation,source
+1,Saving at least 10% of your income helps build long-term security.,saving,13-15,friendly,Stack 1/10 of your cash every month or stay broke 💸,manual
+2,"Set a savings goal and automate it — out of sight, out of mind.",saving,16-19,conversational,Auto-stack your cash so you don’t ghost your future self 🧠,manual
+3,Emergency funds are for unexpected things like phone repairs or hospital visits.,saving,13-15,assertive,"Life throws Ls, emergency stash = W",manual
+4,Track what you spend each week. Little expenses add up fast.,spending,13-15,friendly,That $2 snack? It’s snatching your wallet 🥲,teen_spending.csv
+5,Don't fall for impulse buys — ask yourself if it’s a need or a want.,spending,16-19,assertive,Impulse buys? That’s a straight-up money trap 🚨,teen_spending.csv
+6,Subscriptions pile up — audit your streaming & app costs monthly.,spending,13-15,conversational,"Netflix, Spotify, Crunchyroll = $$$ leak if unchecked",teen_spending.csv
+7,A budget helps you control your money instead of money controlling you.,budgeting,16-19,assertive,Be the CEO of your wallet 🧾,manual
+8,"Use the 50/30/20 rule: 50% needs, 30% wants, 20% savings.",budgeting,13-15,friendly,Budget cheat code unlocked: 50/30/20 rule 🎮,manual
+9,Investing early builds wealth thanks to compound interest.,investing,16-19,assertive,"Start now, let that money snowball ⛄",manual
+10,Understand the risk before investing — don’t gamble blindly.,investing,16-19,conversational,Stocks ≠ roulette. Know before you YOLO 🚀,manual
+11,Credit cards are not free money. Pay your full balance every month.,debt,16-19,assertive,Swipe smart or stay in debt jail 🔒,manual
+12,Never borrow more than you can repay. Debt stacks up fast.,debt,16-19,assertive,Don’t let loans combo your bank account 💀,manual
+13,Compound Interest: Interest earned on your original savings plus previous interest.,glossary,13-15,friendly,Money gets swole 💪 by lifting interest gains,finance_glossary
+14,Budget: A plan for how you will spend and save your money each month.,glossary,13-15,friendly,Your money’s roadmap — no detours 🗺️,finance_glossary
+15,Emergency Fund: Savings set aside for unexpected life events.,glossary,13-15,friendly,The 'oops' stash 🆘,finance_glossary
+16,Debt: Money that you owe to someone else.,glossary,13-15,friendly,Borrowed cash = chained wallet ⛓️,finance_glossary
+1,Saving at least 10% of your income helps build long-term security.,saving,13-15,friendly,Stack 1/10 of your cash every month or stay broke 💸,manual
+2,"Set a savings goal and automate it — out of sight, out of mind.",saving,16-19,conversational,Auto-stack your cash so you don’t ghost your future self 🧠,manual
+3,Emergency funds are for unexpected things like phone repairs or hospital visits.,saving,13-15,assertive,"Life throws Ls, emergency stash = W",manual
+4,Track what you spend each week. Little expenses add up fast.,spending,13-15,friendly,That $2 snack? It’s snatching your wallet 🥲,teen_spending.csv
+5,Don't fall for impulse buys — ask yourself if it’s a need or a want.,spending,16-19,assertive,Impulse buys? That’s a straight-up money trap 🚨,teen_spending.csv
+6,Subscriptions pile up — audit your streaming & app costs monthly.,spending,13-15,conversational,"Netflix, Spotify, Crunchyroll = $$$ leak if unchecked",teen_spending.csv
+7,A budget helps you control your money instead of money controlling you.,budgeting,16-19,assertive,Be the CEO of your wallet 🧾,manual
+8,"Use the 50/30/20 rule: 50% needs, 30% wants, 20% savings.",budgeting,13-15,friendly,Budget cheat code unlocked: 50/30/20 rule 🎮,manual
+9,Investing early builds wealth thanks to compound interest.,investing,16-19,assertive,"Start now, let that money snowball ⛄",manual
+10,Understand the risk before investing — don’t gamble blindly.,investing,16-19,conversational,Stocks ≠ roulette. Know before you YOLO 🚀,manual
+11,Credit cards are not free money. Pay your full balance every month.,debt,16-19,assertive,Swipe smart or stay in debt jail 🔒,manual
+12,Never borrow more than you can repay. Debt stacks up fast.,debt,16-19,assertive,Don’t let loans combo your bank account 💀,manual
+13,Compound Interest: Interest earned on your original savings plus previous interest.,glossary,13-15,friendly,Money gets swole 💪 by lifting interest gains,finance_glossary
+14,Budget: A plan for how you will spend and save your money each month.,glossary,13-15,friendly,Your money’s roadmap — no detours 🗺️,finance_glossary
+15,Emergency Fund: Savings set aside for unexpected life events.,glossary,13-15,friendly,The 'oops' stash 🆘,finance_glossary
+16,Debt: Money that you owe to someone else.,glossary,13-15,friendly,Borrowed cash = chained wallet ⛓️,finance_glossary
+1,Saving at least 10% of your income helps build long-term security.,saving,13-15,friendly,Stack 1/10 of your cash every month or stay broke 💸,manual
+2,"Set a savings goal and automate it — out of sight, out of mind.",saving,16-19,conversational,Auto-stack your cash so you don’t ghost your future self 🧠,manual
+3,Emergency funds are for unexpected things like phone repairs or hospital visits.,saving,13-15,assertive,"Life throws Ls, emergency stash = W",manual
+4,Track what you spend each week. Little expenses add up fast.,spending,13-15,friendly,That $2 snack? It’s snatching your wallet 🥲,teen_spending.csv
+5,Don't fall for impulse buys — ask yourself if it’s a need or a want.,spending,16-19,assertive,Impulse buys? That’s a straight-up money trap 🚨,teen_spending.csv
+6,Subscriptions pile up — audit your streaming & app costs monthly.,spending,13-15,conversational,"Netflix, Spotify, Crunchyroll = $$$ leak if unchecked",teen_spending.csv
+7,A budget helps you control your money instead of money controlling you.,budgeting,16-19,assertive,Be the CEO of your wallet 🧾,manual
+8,"Use the 50/30/20 rule: 50% needs, 30% wants, 20% savings.",budgeting,13-15,friendly,Budget cheat code unlocked: 50/30/20 rule 🎮,manual
+9,Investing early builds wealth thanks to compound interest.,investing,16-19,assertive,"Start now, let that money snowball ⛄",manual
+10,Understand the risk before investing — don’t gamble blindly.,investing,16-19,conversational,Stocks ≠ roulette. Know before you YOLO 🚀,manual
+11,Credit cards are not free money. Pay your full balance every month.,debt,16-19,assertive,Swipe smart or stay in debt jail 🔒,manual
+12,Never borrow more than you can repay. Debt stacks up fast.,debt,16-19,assertive,Don’t let loans combo your bank account 💀,manual
+13,Compound Interest: Interest earned on your original savings plus previous interest.,glossary,13-15,friendly,Money gets swole 💪 by lifting interest gains,finance_glossary
+14,Budget: A plan for how you will spend and save your money each month.,glossary,13-15,friendly,Your money’s roadmap — no detours 🗺️,finance_glossary
+15,Emergency Fund: Savings set aside for unexpected life events.,glossary,13-15,friendly,The 'oops' stash 🆘,finance_glossary
+16,Debt: Money that you owe to someone else.,glossary,13-15,friendly,Borrowed cash = chained wallet ⛓️,finance_glossary

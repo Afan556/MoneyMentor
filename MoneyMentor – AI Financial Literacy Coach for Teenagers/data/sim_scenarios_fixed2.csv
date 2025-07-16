@@ -1,0 +1,21 @@
+id,scenario_text,option_a,option_b,correct_option,feedback_correct,feedback_incorrect
+1,You get $20 from chores. Do you spend it all on snacks or save half?,Spend all,Save half,B,Great choice! You're on track to becoming money-smart. 💸,That might cost you later. Consider saving next time. 😅
+2,A $50 game just dropped. You’ve been saving for a new phone. What do you do?,Buy game,Keep saving,B,Smart move! Saving builds freedom. 🧠,"Spending now might feel good, but saving pays off later. 🤔"
+3,Your friend asks you to split a food delivery again this week. You’re on a tight budget.,Say yes again,Say no and eat at home,B,Well played. Budgeting is adulting 101. 📊,"Impulse buys = short-term hype, long-term regret. 🙅"
+4,You earn $15 selling old books. Do you buy fast food or save it?,Buy food,Save it,B,You’re stacking cash like a pro! 💰,"Spending all of it? Nah, save some for rainy days ☔"
+5,You’re offered a part-time gig on weekends. Do you accept or chill?,Accept job,Stay home,A ,Nice! Hustling for income is a win move. 💼,Skipping work = skipping wealth 📉
+6,Your debit card gives cashback if you save $100/month. Do you join?,Yes,No,A,Rewards for saving? Yes please! 🎁,Missing out on cashback is missing free money 🫠
+7,You get $30 gift cash. Do you blow it on skins or buy school supplies?,Buy skins,School supplies,B,Books > Skins. Long-term gain 🧠,Cool skins don’t pay bills 🧾
+8,Your cousin asks to borrow $20. You only have $25 saved.,Lend money,Politely decline,B,Smart boundaries. Protect your stash 🛡️,Loaning too much = financial stress later 😓
+9,You set a budget of $100 but your cart is $130. Do you remove extras?,Keep all,Stick to budget,B,Discipline is wealth’s BFF. 🔒,Overbudget? Time to Marie Kondo your cart 🛒
+10,You forgot to track expenses this week. Do it now or skip?,Skip it,Track now,B,Tracking money = controlling money 💼,Ignoring your spending = invisible leaks 💦
+11,You get $20 from chores. Do you spend it all on snacks or save half?,Spend all,Save half,B,Great choice! You're on track to becoming money-smart. 💸,That might cost you later. Consider saving next time. 😅
+12,A $50 game just dropped. You’ve been saving for a new phone. What do you do?,Buy game,Keep saving,B,Smart move! Saving builds freedom. 🧠,"Spending now might feel good, but saving pays off later. 🤔"
+13,Your friend asks you to split a food delivery again this week. You’re on a tight budget.,Say yes again,Say no and eat at home,B,Well played. Budgeting is adulting 101. 📊,"Impulse buys = short-term hype, long-term regret. 🙅"
+14,You earn $15 selling old books. Do you buy fast food or save it?,Buy food,Save it,B,You’re stacking cash like a pro! 💰,"Spending all of it? Nah, save some for rainy days ☔"
+15,You’re offered a part-time gig on weekends. Do you accept or chill?,Accept job,Stay home,A,Nice! Hustling for income is a win move. 💼,Skipping work = skipping wealth 📉
+16,Your debit card gives cashback if you save $100/month. Do you join?,Yes,No,A,Rewards for saving? Yes please! 🎁,Missing out on cashback is missing free money 🫠
+17,You get $30 gift cash. Do you blow it on skins or buy school supplies?,Buy skins,School supplies,B,Books > Skins. Long-term gain 🧠,Cool skins don’t pay bills 🧾
+18,Your cousin asks to borrow $20. You only have $25 saved.,Lend money,Politely decline,B,Smart boundaries. Protect your stash 🛡️,Loaning too much = financial stress later 😓
+19,You set a budget of $100 but your cart is $130. Do you remove extras?,Keep all,Stick to budget,B,Discipline is wealth’s BFF. 🔒,Overbudget? Time to Marie Kondo your cart 🛒
+20,You forgot to track expenses this week. Do it now or skip?,Skip it,Track now,A,Tracking money = controlling money 💼,Ignoring your spending = invisible leaks 💦

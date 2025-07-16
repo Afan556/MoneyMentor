@@ -1,0 +1,21 @@
+id,scenario,option_a,option_b,correct_choice,reward,topic
+1,You get $20 from chores. Do you spend it all on snacks or save half?,Spend all,Save half,Save half,+5,impulse_control
+2,A $50 game just dropped. You’ve been saving for a new phone. What do you do?,Buy game,Keep saving,Keep saving,+10,saving_behavior
+3,Your friend asks you to split a food delivery again this week. You’re on a tight budget.,Say yes again,Say no and eat at home,Say no and eat at home,+5,budget_prioritization
+4,You earn $15 selling old books. Do you buy fast food or save it?,Buy food,Save it,Save it,+5,saving_behavior
+5,You’re offered a part-time gig on weekends. Do you accept or chill?,Accept job,Stay home,Accept job,+10,earning_opportunities
+6,Your debit card gives cashback if you save $100/month. Do you join?,Yes,No,Yes,+10,savings_behavior
+7,You get $30 gift cash. Do you blow it on skins or buy school supplies?,Buy skins,School supplies,School supplies,+5,spending_vs_needs
+8,Your cousin asks to borrow $20. You only have $25 saved.,Lend money,Politely decline,Politely decline,+5,debt_boundary
+9,You set a budget of $100 but your cart is $130. Do you remove extras?,Keep all,Stick to budget,Stick to budget,+10,budget_prioritization
+10,You forgot to track expenses this week. Do it now or skip?,Skip it,Track now,Track now,+5,money_awareness
+1,You get $20 from chores. Do you spend it all on snacks or save half?,Spend all,Save half,Save half,+5,impulse_control
+2,A $50 game just dropped. You’ve been saving for a new phone. What do you do?,Buy game,Keep saving,Keep saving,+10,saving_behavior
+3,Your friend asks you to split a food delivery again this week. You’re on a tight budget.,Say yes again,Say no and eat at home,Say no and eat at home,+5,budget_prioritization
+4,You earn $15 selling old books. Do you buy fast food or save it?,Buy food,Save it,Save it,+5,saving_behavior
+5,You’re offered a part-time gig on weekends. Do you accept or chill?,Accept job,Stay home,Accept job,+10,earning_opportunities
+6,Your debit card gives cashback if you save $100/month. Do you join?,Yes,No,Yes,+10,savings_behavior
+7,You get $30 gift cash. Do you blow it on skins or buy school supplies?,Buy skins,School supplies,School supplies,+5,spending_vs_needs
+8,Your cousin asks to borrow $20. You only have $25 saved.,Lend money,Politely decline,Politely decline,+5,debt_boundary
+9,You set a budget of $100 but your cart is $130. Do you remove extras?,Keep all,Stick to budget,Stick to budget,+10,budget_prioritization
+10,You forgot to track expenses this week. Do it now or skip?,Skip it,Track now,Track now,+5,money_awareness
